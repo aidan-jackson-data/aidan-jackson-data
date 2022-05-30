@@ -16,5 +16,5 @@ Repo Languages:
 
 (Note: This is heavily skewed since GitHub counts Rmd files as prose and not for the R programming language. Also, almost all of my Jupyter Notebooks are used with Python.)
 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=aidan-jackson-data&show_icons=true&theme=default)
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=aidan-jackson-data&show_icons=true&theme=default&langs_count=20)
 
