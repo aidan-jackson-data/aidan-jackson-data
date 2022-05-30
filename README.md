@@ -10,7 +10,7 @@ Formerly a chemical engineer, I am now a data scientist with interests in both r
 
 GitHub statistics:
 
-![github stats](https://github-readme-stats.vercel.app/api?username=aidan-jackson-data&show_icons=true&theme=default)
+![github stats](https://github-readme-stats.vercel.app/api?username=aidan-jackson-data&show_icons=true&theme=default&include_all_commits=true)
 
 Repo Languages:
 
