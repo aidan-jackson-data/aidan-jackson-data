@@ -10,6 +10,11 @@ Formerly a chemical engineer, I am now a data scientist with interests in both r
 
 GitHub statistics:
 
+![github stats](https://github-readme-stats.vercel.app/api?username=aidan-jackson-data&show_icons=true&theme=default)
+
+Repo Languages:
+
+(Note: This is heavily skewed since Rmd files are not counted for R and are ignored from this counting process. Also, almost all Jupyter Notebooks are used with Python in my repos)
+
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=aidan-jackson-data&show_icons=true&theme=default)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=aidan-jackson-data&show_icons=true&theme=default)
