@@ -14,7 +14,7 @@ GitHub statistics:
 
 Repo Languages:
 
-(Note: This is heavily skewed since Rmd files are not counted for R and are ignored from this counting process. Also, almost all of my Jupyter Notebooks are used with Python.)
+(Note: This is heavily skewed since Rmd files are not counted for the R programming language. Instead, the API ignores them and they are not counted at all. Also, almost all of my Jupyter Notebooks are used with Python.)
 
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=aidan-jackson-data&show_icons=true&theme=default)
 
