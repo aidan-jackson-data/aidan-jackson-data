@@ -6,7 +6,7 @@ Formerly a chemical engineer, I am now a data scientist with interests in both r
 - 🌱 I’m currently learning about the history and development of computer vision techniques.
 - 💬 Ask me about statistics based techniques for time series forecasting and process control.
 - 📫 How to reach me: Message via [LinkedIn profile](https://www.linkedin.com/in/aidan-jackson/).
-- ☕️ Fun fact: I am a coffee drinker looking to combine the habit with personal testing and analysis of a [certain dataset].(https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-07-07/readme.md)
+- ☕️ Fun fact: I am a coffee drinker looking to combine the habit with personal testing and analysis of a [certain dataset](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-07-07/readme.md).
 
 GitHub statistics:
 
