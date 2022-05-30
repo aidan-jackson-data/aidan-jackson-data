@@ -1,16 +1,15 @@
-### Hi there 👋
+Welcome to my GitHub profile. 
 
-<!--
-**aidan-jackson-data/aidan-jackson-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Formerly a chemical engineer, I am now a data scientist with interests in both research and commerical application of statistics and machine learning. For a better view of my work, please visit https://aidan-jackson-data.github.io/.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on an NLP research project that investigates a new, unique evaluation process for the translation ability of models.
+- 🌱 I’m currently learning about the history of computer vision techniques, to better understand the development of the current state of the art.
+- 💬 Ask me about statistics based techniques for time series forecasting and process control.
+- 📫 How to reach me: Message via [LinkedIn profile](https://www.linkedin.com/in/aidan-jackson/)
+- ☕️ Fun fact: I am a coffee drinker looking to combine the habit with personal testing and analysis of a [certain dataset](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-07-07/readme.md)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+GitHub statistics:
+
+![top-langs](https://github-readme-stats.vercel.app/api?username=aidan-jackson-data&show_icons=true&theme=default)
+
+![github stats](https://github-readme-stats.vercel.app/api?username=aidan-jackson-data&show_icons=true&theme=default)
